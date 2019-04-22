@@ -1,2 +1,2 @@
 # libft
-Home made libc library
+Homemade standard C library
