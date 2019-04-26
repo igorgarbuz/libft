@@ -6,7 +6,7 @@
 /*   By: igarbuz <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/11/08 10:40:03 by igarbuz           #+#    #+#             */
-/*   Updated: 2019/04/18 21:32:11 by igarbuz          ###   ########.fr       */
+/*   Updated: 2019/04/26 17:15:39 by igarbuz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@
 # include <string.h>
 # include <limits.h>
 
-# define BUFF_SIZE 10
+# define BUFF_SIZE 4095
 
 typedef struct		s_line
 {
